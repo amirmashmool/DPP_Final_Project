@@ -6,6 +6,7 @@ To run the project is sufficient to clone or download this repository, with the 
 
 ## How to launch the project
 
+for testing 
 
 ## repo explanation
 ## Authors
